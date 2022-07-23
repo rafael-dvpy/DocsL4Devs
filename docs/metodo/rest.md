@@ -9,6 +9,7 @@ de APIS.
 Uma requisição http com formato específico como
 
 ![](../images/crud.png)
+
 https://left4dev.com/**POST**/dino
 
 resultado: 
