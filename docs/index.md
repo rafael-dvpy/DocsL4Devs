@@ -5,7 +5,7 @@
 - ### [Typescript](stack/typescript.md)
 - ### [NextJS](stack/nexstjs.md)
 - ### [Bootstrap VS MaterialUI](stack/bootstrap.md)
-- ### [SQL](stack/sql.md)
+- ### [AWS](stack/aws.md)
 ---
 ## Metodologias
 - ### Git e Versionamento
